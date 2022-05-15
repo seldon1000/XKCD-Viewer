@@ -38,7 +38,7 @@ struct ComicDetailsView: View {
                     .foregroundColor(.gray)
                     .padding([.horizontal, .top])
                     .padding(.bottom, 8)
-                Link(comic.img, destination: URL(string: "https://xkcd.com/\(comic.num)")!)
+                Link("https://xkcd.com/\(comic.num)", destination: URL(string: "https://xkcd.com/\(comic.num)")!)
                     .padding([.horizontal, .bottom])
             }
         }
