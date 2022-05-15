@@ -5,8 +5,8 @@ Simple yet cool XKCD Viewer, built entirely in SwiftUI.
   <img src="https://img.shields.io/static/v1?label=XCode Version&message=13&color=blue" />
   <img src="https://img.shields.io/static/v1?label=Swift Version&message=5&color=blue" />
   <img src="https://img.shields.io/static/v1?label=UI Framework&message=SwiftUI&color=blue" />
-  <img src="https://img.shields.io/static/v1?label=Build for&message=iOS 15&color=blue" />
-  <img src="https://img.shields.io/static/v1?label=Tested on&message=IPhone 11&color=blue" />
+  <img src="https://img.shields.io/static/v1?label=Built for&message=iOS 15&color=blue" />
+  <img src="https://img.shields.io/static/v1?label=Tested on&message=iPhone 11&color=blue" />
 </p>
 
 ## Screenshots
