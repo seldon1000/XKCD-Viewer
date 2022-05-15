@@ -57,6 +57,6 @@ The bottom toolbar has some cool features:
 ## And now?
 One thing I would like to implement is the search feature, which would be challenging since I would have to investigate how to make it blend with my current design and navigation system.
 
-Also, I use UserDefaults to store favourites, including their fully loaded images offline. This works but gave me so many headackes during the development, so using a nicer and more powerful solution (CoreData?) could be a good point.
+Also, I use UserDefaults to store favourites, including their fully loaded images offline. This works but gave me so many headackes during the development, so using a nicer and more powerful solution (CoreData?) could be a good point. An actuall error handling system would also be a great idea.
 
 Finally, the app is still a bit ugly, I could use the help of a designer to style it better, and it still needs some testing, cause bugs are always somewhere to be found.
